@@ -1,3 +1,10 @@
+# Build dir
+build/*.log
+build/cache/
+build/conf/sanity_info
+build/sstate-cache/
+build/tmp/
+
 # Downlods directory
 downloads/*
 !downloads/.gitkeep
