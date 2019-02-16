@@ -1,0 +1,3 @@
+# Downlods directory
+downloads/*
+!downloads/.gitkeep
